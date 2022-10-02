@@ -51,26 +51,48 @@
   
 
   
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
+      ,"page3": {
+          "title": "Notes",
+          "content": "#Here are my trimester 1 notes :joy: .",
+          "url": "https://parkernowak.github.io/Parkerfastpages/Notes/",
+          "relUrl": "/Notes/",
+          "date": ""
+      }
+      
   
 
   
   
 
   
-      ,"page10": {
+
+  
+  
+
+  
+
+  
+      ,"page8": {
+          "title": "vocab",
+          "content": "Vocab Description . API | Application program interface is a protocol which calls data | . Paragraph | Text | . Header | Titble | . Paragraph | Text | .",
+          "url": "https://parkernowak.github.io/Parkerfastpages/vocab/",
+          "relUrl": "/vocab/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://parkernowak.github.io/Parkerfastpages/robots.txt",
